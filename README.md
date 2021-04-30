@@ -8,4 +8,5 @@
 - 💬 Ask me about Front-end Development
 - 📫 How to reach me: https://www.linkedin.com/in/shakib-shalim
 - 😄 Pronouns: He/His
-<img src="https://github-readme-stats.vercel.app/api?%20shakibshalim2%20iampawan&&show_icons=true&ti%20tle_color=ffffff&icon_color=bb2acf&text_colo%20r=daf7dc&bg_color=151515">
+- 
+https://github-readme-stats.vercel.app/api?%20shakibshalim2%20iampawan&&show_icons=true&ti%20tle_color=ffffff&icon_color=bb2acf&text_colo%20r=daf7dc&bg_color=151515
