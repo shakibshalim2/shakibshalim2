@@ -8,5 +8,9 @@
 - 💬 Ask me about Front-end Development
 - 📫 How to reach me: https://www.linkedin.com/in/shakib-shalim
 - 😄 Pronouns: He/His
-- 
-https://github-readme-stats.vercel.app/api?%20shakibshalim2%20iampawan&&show_icons=true&ti%20tle_color=ffffff&icon_color=bb2acf&text_colo%20r=daf7dc&bg_color=151515
+
+# My Recent Projects-
+
+
+## Mobile Shop
+Here user can buy mobile, [Live Site](https://mobile-store-ddad2.web.app/), [Client Repo](https://github.com/shakibshalim2/Mobile-shop), [Server Repo](https://github.com/shakibshalim2/mobile-store-server)
